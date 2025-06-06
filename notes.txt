@@ -1,0 +1,7 @@
+AppName=testappname
+Version=<VERSION>
+DockerRepoUrl=<DOCKER_REPO>/testappname
+DockerImageUrl=<DOCKER_REPO>/testappname:<VERSION>
+HelmRrepoUrl=<REPO_URL>
+HelmChartName=testappname
+HelmChartVersion=<VERSION>
